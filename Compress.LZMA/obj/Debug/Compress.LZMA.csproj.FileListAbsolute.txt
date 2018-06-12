@@ -1,0 +1,14 @@
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\bin\Debug\Compress.LZMA.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\bin\Debug\Compress.LZMA.pdb
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\bin\Debug\Compress.Info.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\bin\Debug\UnityEngine.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\obj\Debug\Compress.LZMA.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\obj\Debug\Compress.LZMA.pdb
+C:\Users\Yzlah\documents\visual studio 2013\Projects\Compress.LZMA\Compress.LZMA\obj\Debug\Compress.LZMA.csprojResolveAssemblyReference.cache
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\bin\Debug\Compress.LZMA.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\bin\Debug\Compress.LZMA.pdb
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\bin\Debug\Compress.Info.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\bin\Debug\UnityEngine.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\obj\Debug\Compress.LZMA.csprojResolveAssemblyReference.cache
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\obj\Debug\Compress.LZMA.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.LZMA\obj\Debug\Compress.LZMA.pdb

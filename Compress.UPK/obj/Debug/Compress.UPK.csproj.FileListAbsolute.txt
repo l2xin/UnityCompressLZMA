@@ -1,0 +1,14 @@
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\bin\Debug\Compress.UPK.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\bin\Debug\Compress.UPK.pdb
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\bin\Debug\Compress.Info.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\bin\Debug\UnityEngine.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\obj\Debug\Compress.UPK.csprojResolveAssemblyReference.cache
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\obj\Debug\Compress.UPK.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.UPK\Compress.UPK\obj\Debug\Compress.UPK.pdb
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\bin\Debug\Compress.UPK.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\bin\Debug\Compress.UPK.pdb
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\bin\Debug\Compress.Info.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\bin\Debug\UnityEngine.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\obj\Debug\Compress.UPK.csprojResolveAssemblyReference.cache
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\obj\Debug\Compress.UPK.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.UPK\obj\Debug\Compress.UPK.pdb

@@ -1,0 +1,10 @@
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.Info\Compress.Info\bin\Debug\Compress.Info.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.Info\Compress.Info\bin\Debug\Compress.Info.pdb
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.Info\Compress.Info\obj\Debug\Compress.Info.csprojResolveAssemblyReference.cache
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.Info\Compress.Info\obj\Debug\Compress.Info.dll
+c:\users\yzlah\documents\visual studio 2013\Projects\Compress.Info\Compress.Info\obj\Debug\Compress.Info.pdb
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.Info\bin\Debug\Compress.Info.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.Info\bin\Debug\Compress.Info.pdb
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.Info\obj\Debug\Compress.Info.csprojResolveAssemblyReference.cache
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.Info\obj\Debug\Compress.Info.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\Compress.Info\obj\Debug\Compress.Info.pdb
