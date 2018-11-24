@@ -1,10 +1,13 @@
 # UnityCompressLZMA
-UPK->LZMA压缩
 
-LZMA压缩方式：Compress.Info.dll和Compress.LZMA.dll 文件   
+**可以实现Files->UPK->LZMA压缩**
 
-GZip压缩方式：Compress.Info.dll和ICSharpCode.SharpZipLib.dll 文件
+* LZMA压缩方式：Compress.Info.dll和Compress.LZMA.dll 文件   
 
+* GZip压缩方式：Compress.Info.dll和ICSharpCode.SharpZipLib.dll 文件
+
+### 示例
+```
  LZMAFile.CompressAsync(Application.dataPath + "/music.mp3", Application.dataPath + "/music.lzma", null);  
  GZipFile.CompressAsync(Application.dataPath + "/music.mp3", Application.dataPath + "/music.gzip", null);  
  LZMAFile.DeCompressAsync(Application.dataPath + "/music.lzma", Application.dataPath + "/lzmamusic.mp3", null);  
@@ -17,3 +20,4 @@ GZip压缩方式：Compress.Info.dll和ICSharpCode.SharpZipLib.dll 文件
      double progress = (double)now /all;  
      Debug.Log("当前进度为: " + progress);  
 }  
+```
